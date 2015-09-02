@@ -134,9 +134,9 @@ limitations under the License.
         <p>
           To use the web UI you will need to authenticate as a
           RabbitMQ user (on a fresh installation the user "guest" is
-          created with password "guest"). From here you can manage
-          exchanges, queues, bindings, virtual hosts, users and
-          permissions. Hopefully the UI is fairly self-explanatory.
+          created with password "guest" works only from localhost by default). 
+          From here you can manage exchanges, queues, bindings, virtual hosts, 
+          users and permissions. Hopefully the UI is fairly self-explanatory.
         </p>
         <p>
           The management UI is implemented as a single static HTML
